@@ -17,11 +17,11 @@ public class Basics {
 //		2
 //		3
 //		4
+
 //		5
 //		6
 		
 //		A, B, C, D, E, M
-		
 		
 		
 		
