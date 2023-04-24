@@ -20,6 +20,8 @@ public class Basics {
 //		5
 //		6
 		
+//		A, B, C, D, E, M
+		
 		
 		
 		
