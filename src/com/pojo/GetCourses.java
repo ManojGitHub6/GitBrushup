@@ -19,6 +19,7 @@ public class GetCourses {
 		when().
 		get("https://rahulshettyacademy.com/getCourse.php").as(BodyElements.class);
 		
+		System.out.println("Welcome Line Added");
 		
 //		reading the response of the elements
 		System.out.println(response.getInstructor());
