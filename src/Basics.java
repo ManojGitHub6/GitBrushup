@@ -21,7 +21,7 @@ public class Basics {
 //		5
 //		6
 		
-//		A, B, C, D, E, M,Z
+//		A, B, C, D, E, M,Z,J
 		
 		
 		
