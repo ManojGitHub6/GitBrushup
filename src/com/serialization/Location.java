@@ -2,6 +2,7 @@ package com.serialization;
 
 public class Location {
 	
+	//location
 	private double lat;
 	public double getLat() {
 		return lat;
