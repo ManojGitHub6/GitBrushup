@@ -1,6 +1,8 @@
 package com.files;
 
 public class Payload {
+
+	//Below are the input payload body methods
 	
 	public static String addPlace(String name, String address)
 	{
